@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marshall Dankbar</h1>
-<h3 align="center">A passionate developer from California</h3>
+<h3 align="center">A passionate developer from California. Welcome to my Github where I have recently tranferred my personal and learning projects to showcase as my professional portfolio.</h3>
 
 
 - 💬 Ask me about **React, Design, and Security**
