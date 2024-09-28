@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Marshall Dankbar</h1>
+<h1 align="center">Hi 👋, I'm Marshall</h1>
 <h3 align="center">A passionate developer from California. Welcome to my Github where I have recently tranferred my personal and learning projects to showcase as my professional portfolio.</h3>
 
 
-- 💬 Ask me about **React, Design, and Security**
+- 💬 Ask me about **React, Design, and Web Development**
 
 - 📫 How to reach me **marshalldankbar@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/marshalldankbar](linkedin.com/in/marshalldankbar)
+- 📄 Learn about my experiences [linkedin.com/in/marshalldankbar](linkedin.com/in/marshalldankbar)
 
-- ⚡ Fun fact **I was born on leap day**
 
 <p align="left">
 </p>
